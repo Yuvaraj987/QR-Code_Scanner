@@ -13,8 +13,8 @@ A simple web-based QR Code scanner built using JavaScript, HTML, and CSS. This p
 
 This project is open source. See the repository for details.
 
-##Author
+## Author
 
-Developed by 
+Developed by [Yuvaraj987](https://github.com/Yuvaraj987)
 
 ---
