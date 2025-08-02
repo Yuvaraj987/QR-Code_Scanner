@@ -8,7 +8,10 @@ A simple web-based QR Code scanner built using JavaScript, HTML, and CSS. This p
 - **Instant Feedback**: Displays the scanned QR code content via an alert.
 - **Responsive UI**: Clean and responsive user interface styled with CSS.
 
- 
+## Screenshot
+
+![Screenshot](/QR.png)
+
 ## License
 
 This project is open source. See the repository for details.
