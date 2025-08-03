@@ -4,9 +4,9 @@ A simple web-based QR Code scanner built using JavaScript, HTML, and CSS. This p
 
 ## Features
 
-- **Scan QR Codes**: Uses your device's camera to scan and decode QR codes in real time.
-- **Instant Feedback**: Displays the scanned QR code content via an alert.
-- **Responsive UI**: Clean and responsive user interface styled with CSS.
+- 🧰 **Scan QR Codes**: Uses your device's camera to scan and decode QR codes in real time.
+- 🌐 **Instant Feedback**: Displays the scanned QR code content via an alert.
+- ✅ **Responsive UI**: Clean and responsive user interface styled with CSS.
 
 ## Screenshot
 
